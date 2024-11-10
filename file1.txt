@@ -1,2 +1,3 @@
 echo "shiva"
 echo "king"
+echi "whoami"
